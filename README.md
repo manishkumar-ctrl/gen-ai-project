@@ -1,1 +1,1 @@
-# gen-ai-project
+https://genai2.niat.tech/#billing
